@@ -13,10 +13,4 @@ claude plugin install palet@palet
 
 The plugin connects Claude Code to Palet's hosted MCP server and adds skills for designing from your code and building your designs in it. Codex, Cursor and other MCP clients work too; [palet-so/plugins](https://github.com/palet-so/plugins) has the setup for each. You sign in with your Palet account the first time a tool runs, so there's no API key to manage.
 
-## Repositories
-
-| Repository | What it is |
-|---|---|
-| [plugins](https://github.com/palet-so/plugins) | Palet for Claude Code, Codex and Cursor: the MCP server and design skills |
-
 Questions or feedback: [hello@palet.so](mailto:hello@palet.so)
